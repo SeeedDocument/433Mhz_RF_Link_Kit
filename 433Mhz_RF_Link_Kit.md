@@ -1,6 +1,6 @@
 ---
 title: 433Mhz RF Link Kit
-category: Makerpro
+category: MakerPro
 bzurl: https://www.seeedstudio.com/433mhz-rf-link-kit-p-127.html?cPath=139_140
 oldwikiname: 433Mhz RF Link Kit
 prodimagename: 113990010%201.jpg
